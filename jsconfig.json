@@ -1,12 +1,6 @@
-// {
-//   "compilerOptions": {
-//     "baseUrl": "src"
-//   },
-//   "include": ["src"]
-// }
-
 {
   "compilerOptions": {
-    "types": ["estree"]
-  }
+    "baseUrl": "src"
+  },
+  "include": ["src"]
 }
